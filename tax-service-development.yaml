@@ -18,4 +18,4 @@ spring:
      
 
   
-msg: Hello world - this is from config server UAT/SIT environment
+msg: Hello world - this is from config server tax service
